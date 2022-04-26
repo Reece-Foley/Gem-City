@@ -1,6 +1,6 @@
 # Gem-City
 History of Pineville
-![Pineville and PineM](basetotop.jpg)
+![ChainRock](therock.jpg)
 
 
 ![Screenshot of animation](YouTube.jpg)     
